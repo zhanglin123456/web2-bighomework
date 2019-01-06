@@ -672,8 +672,15 @@
 	width: 90px;
 	height: 90px;
 	position: absolute;
-	left:10px;
+	left:45px;
 	bottom:5px;
+}
+#img03-3img{
+	width: 23px;
+	height: 23px;
+	position: absolute;
+	left:15px;
+	top:100px;
 }
 #img04{
 	position:fixed;
